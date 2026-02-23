@@ -4,5 +4,4 @@ Utilitaires de lecture pour Neo4j : mapping d'un graphe de noeuds vers un modele
 
 ## Stack
 
-- C# / .NET
-- Neo4j
+[![Stack](https://skillicons.dev/icons?i=graphql,dotnet,cs&theme=dark)](https://skillicons.dev)
